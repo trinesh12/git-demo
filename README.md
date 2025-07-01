@@ -1,3 +1,3 @@
-# git-demo
+git-demo
 <br>
-This is my first git semo
+This is my first git demo
